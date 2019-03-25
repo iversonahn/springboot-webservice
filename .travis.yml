@@ -19,3 +19,6 @@ notifications:
   email:
     recipients:
       - sangjoahn@gscdn.com
+  slack:
+    rooms:
+      secure: Uykbh2DwZSRvbZetuC7qRDI1
