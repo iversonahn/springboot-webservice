@@ -21,4 +21,4 @@ notifications:
       - sangjoahn@gscdn.com
   slack:
     rooms:
-      secure: Uykbh2DwZSRvbZetuC7qRDI1
+      - asj618:Uykbh2DwZSRvbZetuC7qRDI1#test
